@@ -8,3 +8,16 @@
 - Git — [O que é o Git?](https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git)
 - Aprendendo HTML e CSS
 - Gostaria de aprender Python
+
+## Meu Primeiro Programa
+
+Abaixo está o clássico Olá, Mundo! em C. A função usada para imprimir é a `printf()`.
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Olá, Mundo!");
+
+    return 0;
+}
